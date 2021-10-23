@@ -1,0 +1,90 @@
+body{
+  text-align: center;  
+   background-color: brown; 
+    
+}
+.profile{
+    height: inherit;
+    width: 150px;
+    border-radius: 50%;
+}
+p{
+   font-size: 25px;
+    font-family: cursive;
+    color:azure;
+    
+    
+}
+h1{
+   font-size: 25px;
+    font-family: fantasy;
+    color:red; 
+    margin-left: ;
+}
+h2{
+font-size: 25px;
+    font-family: fantasy;
+    color:blue;   
+}
+div{
+font-size: 25px;
+    font-family: fantasy;
+    color:green;    
+}
+h4{
+   font-size: 25px;
+    font-family: fantasy;
+    color:red;     
+}
+h5{
+font-size: 25px;
+    font-family: monospace;
+    color:yellow;    
+}
+h6{
+    font-size: 25px;
+    font-family: monospace;
+    color:blue;    
+}
+h7{
+     font-size: 40px;
+    font-family: monospace;
+    color:black;
+}
+section{
+     text-align: center;  
+   background-color: brown; 
+    font-size: 25px;
+    font-family: fantasy;
+    color:red;
+}
+.menu{
+    font-family: cursive;
+    position: absolute;
+    top: 10px;
+    right: 35px;
+    cursor: pointer
+    z-index: 10;
+    list-style: none;
+}
+.links{
+    float: left;
+    colour:yellow;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left: 10px;    
+    padding-right: 10px;
+    font-size: 20px;
+    font-family: serif;
+    
+    
+}
+.links:hover{
+    background-color: dodgerblue;
+    
+    
+}
+.article:hover{
+    color: aqua;
+    
+}
